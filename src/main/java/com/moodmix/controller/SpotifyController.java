@@ -16,6 +16,8 @@ public class SpotifyController {
 
     @Value("${spotify.client.secret}")
     private String clientSecret;
+    
+    
 
     @GetMapping("/credentials")
     public ResponseEntity<Map<String, String>> getSpotifyCredentials() {
