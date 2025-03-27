@@ -1,3 +1,4 @@
 com\moodmix\SpotifyApiApplication.class
 com\moodmix\controller\SpotifyController.class
 com\moodmix\controller\HomeController.class
+com\moodmix\controller\SupabaseController.class
